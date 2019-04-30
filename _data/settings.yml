@@ -11,16 +11,16 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Wayne Johnson
   title:
-  license_number:
+  license_number: CA DRE License# 01791202
   about_markdown: |
 
   brand:
-  brokerage:
-  market:
-  address:
-  phone:
+  brokerage: RE/MAX Gold
+  market: Bay Area
+  address: 2100 Tennessee St, Vallejo, CA 94590
+  phone: 510.512.5847
   phone_type:
   phone2:
   phone2_type:
@@ -94,8 +94,8 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#a78337'
+  theme_color: '#000000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -104,7 +104,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: white
 
 buttons:
   button_radius_number: 0
